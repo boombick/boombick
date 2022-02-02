@@ -25,6 +25,6 @@ So, here are a few words about me
 
 <img align="right" src="https://dev-gang.ru/static/storage/228930811996337321345827048302203503497.png" width="25%">
 
-![](https://github-readme-stats.vercel.app/api?username=boombick&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=boombick&show_icons=true&include_all_commits=true)
 
 
