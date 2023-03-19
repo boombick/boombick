@@ -21,7 +21,7 @@ So, here are a few words about me
 * 💻 I passionate about DevOps and everything relates to
 * 🥷 I learn AI and ML on my own and trying to apply it to my daily routines
 * 📓 I'm a blogger as well. Reach me out at [telegram](https://t.me/happy_devops) (In Russian, sorry)
-* 📜 And as the last point, you can put your eyes on my [full CV](https://andrey.sinits.in) 
+* 📜 And as the last point, you can put your eyes on my [full CV]([https://andrey.sinits.in](https://www.linkedin.com/in/andreysinitsyn)) 
 
 <!-- <img align="right" src="https://dev-gang.ru/static/storage/228930811996337321345827048302203503497.png" width="25%">
 
