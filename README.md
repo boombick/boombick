@@ -23,8 +23,8 @@ So, here are a few words about me
 * 📓 I'm a blogger as well. Reach me out at [telegram](https://t.me/happy_devops) (In Russian, sorry)
 * 📜 And as the last point, you can put your eyes on my [full CV](https://andrey.sinits.in) 
 
-<img align="right" src="https://dev-gang.ru/static/storage/228930811996337321345827048302203503497.png" width="25%">
+<!-- <img align="right" src="https://dev-gang.ru/static/storage/228930811996337321345827048302203503497.png" width="25%">
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=boombick&show_icons=true&include_all_commits=true) -->
+![](https://github-readme-stats.vercel.app/api?username=boombick&show_icons=true&include_all_commits=true) -->
 
 
