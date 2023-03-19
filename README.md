@@ -16,7 +16,7 @@
 
 Nice to meet you, my name is Andrey Sinitsyn and I'm a multifunctional IT specialist.  
 So, here are a few words about me
-* 🕗 I'm about 20 years working on different themes in the IT domain
+* 🕗 I'm about 20 years work on different themes in the IT domain
 * 👷‍♂️➡️👨‍💻 Now I've changed my main track from engineer to manager. Currently, I'm TeamLead of SRE team
 * 💻 I passionate about DevOps and everything relates to
 * 🥷 I learn AI and ML on my own and trying to apply it to my daily routines
@@ -25,6 +25,6 @@ So, here are a few words about me
 
 <img align="right" src="https://dev-gang.ru/static/storage/228930811996337321345827048302203503497.png" width="25%">
 
-![](https://github-readme-stats.vercel.app/api?username=boombick&show_icons=true&include_all_commits=true)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=boombick&show_icons=true&include_all_commits=true) -->
 
 
