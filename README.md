@@ -18,7 +18,7 @@ Nice to meet you, my name is Andrey Sinitsyn and I'm a multifunctional IT specia
 So, here are a few words about me
 * 🕗 I'm about 20 years work on different themes in the IT domain
 * 👷‍♂️➡️👨‍💻 Now I've changed my main track from engineer to manager. Currently, I'm Head of the (big enough🙃) SRE team
-* 💻 I passionate about DevOps and everything relates to
+* 💻 I passionate about DevOps, Operations and everything relates to
 * 🥷 I learn AI and ML on my own and trying to apply it to my daily routines
 * 📓 I'm a blogger as well. Reach me out at [telegram](https://t.me/happy_devops) (In Russian, sorry)
 * 📜 And as the last point, you can put your eyes on my [full CV](https://www.linkedin.com/in/andreysinitsyn) 
