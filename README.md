@@ -13,7 +13,7 @@
 
 ---   
 <img align="right" alt="Github" src="https://octodex.github.com/images/pythocat.png" width="25%"/>
-
+<!--
 Nice to meet you, my name is Andrey Sinitsyn and I'm a multifunctional IT specialist.  
 So, here are a few words about me
 * 🕗 I'm about 20 years work on different themes in the IT domain
@@ -22,6 +22,20 @@ So, here are a few words about me
 * 🥷 I learn AI and ML on my own and trying to apply it to my daily routines
 * 📓 I'm a blogger as well. Reach me out at [telegram](https://t.me/happy_devops) (In Russian, sorry)
 * 📜 And as the last point, you can put your eyes on my [full CV](https://www.linkedin.com/in/andreysinitsyn) 
+-->
+Nice to meet you! My name is Andrey Sinitsyn, and I'm a versatile IT specialist. 
+Allow me to share a few details about myself:
+* 🕗 I have approximately 20 years of experience working on various themes in the IT domain.
+* 👷‍♂️➡️👨‍💻 Currently, I have transitioned from an engineering role to a managerial one. I am presently the Head of a (sufficiently large🙃) SRE team.
+* 💻 I am passionate about DevOps, Operations, SRE, and everything related.
+* 🥷 I am independently studying AI and ML and striving to integrate these concepts into my daily routines.
+* 📓 I also maintain a blog. Feel free to contact me via Telegram (Note: in Russian, my apologies).
+* 📜 Lastly, you can take a look at my [comprehensive CV](https://www.linkedin.com/in/andreysinitsyn) 
+
+
+
+
+
 
 <!-- <img align="right" src="https://dev-gang.ru/static/storage/228930811996337321345827048302203503497.png" width="25%">
 
