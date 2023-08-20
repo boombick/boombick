@@ -20,7 +20,7 @@ Allow me to share a few details about myself:
 * 👷‍♂️➡️👨‍💻 Currently, I have transitioned from an engineering role to a managerial one. I am presently the Head of a (sufficiently large 🙃) SRE team.
 * 💻 I am passionate about DevOps, Operations, SRE, and everything related.
 * 🥷 I am independently studying AI and ML and striving to integrate these concepts into my daily routines.
-* 📓 I also maintain a blog. Feel free to contact me via Telegram: [Happy Devops](https://t.me/happy_devops) (in Russian, my apologies).
+* 📓 I also maintain a blog. Feel free to contact me via Telegram: [Happy Devops](https://t.me/happy_devops) (in Russian 🇷🇺).
 * 📜 Lastly, you can take a look at my [comprehensive CV](https://www.linkedin.com/in/andreysinitsyn) 
 
 
